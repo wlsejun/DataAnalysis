@@ -3,7 +3,7 @@
 import os
 import re
 
-FILE_PATH = './pandas/'
+FILE_PATH = './matplotlib/seaborn/'
 
 print('=============')
 for file_name in os.listdir(FILE_PATH):
